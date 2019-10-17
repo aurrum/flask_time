@@ -10,7 +10,7 @@ def homepage():
     <h1 align="center">Welcome to aurrum</h1>
     <p align="center">It is currently {time}.</p>
 
-    <img src="http://placeimg.com/700/500/tech"/>
+    <img src="http://placeimg.com/700/500/tech" align="middle"/>
     """.format(time=the_time)
 
 if __name__ == '__main__':
